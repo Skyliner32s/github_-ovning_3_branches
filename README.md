@@ -1,4 +1,4 @@
-#övning 3
+#Excersie 3
 ##Description
 övning för att testa pull och push requests
 ##License
